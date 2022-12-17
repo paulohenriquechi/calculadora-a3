@@ -1,0 +1,1 @@
+create table orcamentos ( nome varchar(100),totalHoras int,valorHora double,custoOrcamento double );
